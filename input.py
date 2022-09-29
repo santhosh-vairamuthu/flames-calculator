@@ -1,5 +1,5 @@
 """
-FLAMES calculator made using python. Common letters are cleared and final lenth is found in input.py
+FLAMES calculator made using python. Common letters are cleared and final length is found in input.py
 The desired condition is found using flames.py as a module.
 The input and output are handled in input.py
 The input you enter are hidden
